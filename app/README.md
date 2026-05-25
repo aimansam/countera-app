@@ -25,6 +25,7 @@ Generate and apply database migrations:
 ```bash
 docker compose run --rm web pnpm db:generate
 docker compose run --rm web pnpm db:migrate
+docker compose run --rm web pnpm db:seed
 ```
 
 For direct local development without Docker:
