@@ -8,7 +8,30 @@ services:
         required: false
     environment:
       NEXT_PUBLIC_APP_URL: http://localhost:3000
+      DATABASE_URL: postgres://countera:countera@db:5432/countera
+    depends_on:
+      db:
+        condition: service_healthy
     volumes:
       - .:/app
       - /app/node_modules
     command: pnpm dev --hostname 0.0.0.0
+
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: countera
+      POSTGRES_PASSWORD: countera
+      POSTGRES_DB: countera
+    ports:
+      - "5432:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U countera -d countera"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  db-data:
