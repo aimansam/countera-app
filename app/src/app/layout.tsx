@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Countera | POS for salons and barbers",
+  title: "Countera | All-in-one POS for small business",
   description:
-    "A simple browser-based POS for salons and barbers to sell services, track clients, manage staff, and see daily revenue.",
+    "A simple browser-based POS for small businesses to run checkout, customers, inventory, staff, and daily reports.",
 };
 
 export default function RootLayout({

@@ -9,7 +9,7 @@ This is the immediate execution list before the full Countera App build. Current
 - [x] Add `.env.example`
 - [x] Add Countera brand copy
 - [x] Add waitlist form placeholder
-- [x] Add sections for checkout, services/products, clients, staff, and daily reports
+- [x] Add sections for checkout, products/services, customers, inventory, staff, and daily reports
 - [x] Validate Compose config
 - [x] Verify production build
 - [ ] Run the local Docker dev server
@@ -30,13 +30,13 @@ This is the immediate execution list before the full Countera App build. Current
 
 ## Step 2: Demand Validation
 
-- [ ] Write one-sentence positioning: simple POS for salons and barbers
+- [ ] Write one-sentence positioning: all-in-one POS for small businesses
 - [ ] Write landing page headline
 - [ ] Write landing page subheadline
 - [ ] Write 5 key benefits
 - [ ] Write 3 pricing hypotheses
 - [ ] Create waitlist form fields
-- [ ] Contact 3-5 salons/barbers for discovery interviews
+- [ ] Contact 3-5 retail, service, cafe, salon, or repair businesses for discovery interviews
 - [ ] Record objections and must-have features
 
 ## Step 3: Waitlist Landing Page
@@ -44,7 +44,7 @@ This is the immediate execution list before the full Countera App build. Current
 - [x] Scaffold a small Docker-first landing page
 - [x] Add Countera brand copy
 - [x] Add waitlist form placeholder or integration
-- [x] Add sections for checkout, services/products, clients, staff, and daily reports
+- [x] Add sections for checkout, products/services, customers, inventory, staff, and daily reports
 - [ ] Add simple pricing interest section
 - [ ] Add privacy/contact links
 - [ ] Deploy to `countera.app`, later
@@ -63,6 +63,7 @@ This is the immediate execution list before the full Countera App build. Current
 - [ ] Build auth shell
 - [ ] Build workspace/shop onboarding
 - [ ] Build protected app layout
+- [ ] Build business preset selection
 - [ ] Build service catalog
 - [ ] Build product catalog
 - [ ] Build first POS checkout screen

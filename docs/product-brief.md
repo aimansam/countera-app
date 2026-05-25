@@ -8,14 +8,14 @@
 - Product domain candidate: countera.app
 - App URL candidate: app.countera.app
 - Support email candidate: support@countera.app
-- First theme: Salon/barber POS
-- Target users: small salons, barbers, stylists, and service shops with 1-10 staff
-- Problem being solved: owners need a simple way to sell services/products, track daily revenue, manage staff activity, and keep customer history without a complex enterprise POS
+- Product shape: all-in-one POS with business presets
+- Target users: small retail shops, service businesses, cafes, salons, repair shops, clinics, and local operators with 1-20 staff
+- Problem being solved: owners need a simple way to sell products/services, track daily revenue, manage staff activity, monitor inventory, and keep customer history without a complex enterprise POS
 - Primary outcome: a shop can complete checkout, record payments, track inventory, and understand daily performance from one browser-based app
 
 ## Positioning
 
-Countera App is a simple browser-based POS for salons and barbers that combines checkout, services, products, customers, staff, receipts, and daily reports.
+Countera App is a simple browser-based POS for small businesses that combines checkout, products, services, customers, inventory, staff, receipts, and daily reports.
 
 Parent brand line:
 
@@ -23,13 +23,13 @@ Mavora Labs builds practical SaaS tools for small businesses and modern operator
 
 Product line:
 
-Countera helps salons and barbers sell services, track clients, manage staff, and see daily revenue from one clean POS dashboard.
+Countera helps small businesses sell products and services, track customers and stock, manage staff, and see daily revenue from one clean POS dashboard.
 
 ## Core Workflow
 
 1. Owner creates a shop workspace.
-2. Owner adds services, products, staff, tax settings, and optional customers.
-3. Cashier/stylist opens the POS screen.
+2. Owner chooses a business preset and adds products, services, staff, tax settings, and optional customers.
+3. Cashier or staff member opens the POS screen.
 4. Cashier adds services/products to cart.
 5. Cashier applies tax, discounts, and optional tip.
 6. Cashier records payment as cash, card/manual, or other.
@@ -43,14 +43,15 @@ Countera helps salons and barbers sell services, track clients, manage staff, an
 | Owner | Manage billing, settings, staff, catalog, reports, and all orders |
 | Manager | Manage catalog, staff schedule/status, customers, orders, and reports |
 | Cashier | Create sales, view products/services, create customers, print/send receipts |
-| Stylist | Create assigned sales, view own customers/history, view own daily totals |
+| Staff | Create assigned sales, view own customers/history, view own daily totals |
 
 ## MVP Features
 
 - Workspace/shop setup
 - Auth and staff roles
 - Product and service catalog
-- Customer/client records
+- Customer records with preset-specific labels
+- Business preset selection
 - POS cart and checkout
 - Discounts, tax, and tips
 - Manual payment recording
@@ -99,7 +100,7 @@ Must have:
 - Docker-first Next.js app foundation
 - PostgreSQL schema
 - Auth and workspace roles
-- Salon/barber onboarding
+- Business preset onboarding
 - Services/products
 - POS checkout
 - Manual payments
@@ -113,7 +114,7 @@ Nice to have:
 - Staff commission report
 - CSV export
 - Email receipts
-- Basic appointment placeholder
+- Preset-specific labels and dashboard cards
 
 Not now:
 

@@ -1,15 +1,15 @@
 export default function Home() {
   const benefits = [
-    "Sell services and products from one checkout",
-    "Keep client history close to every sale",
-    "See staff, tips, and daily revenue at a glance",
-    "Start browser-first before hardware gets complex",
+    "Sell products, services, fees, and tips from one checkout",
+    "Track customers, stock, staff, and daily revenue together",
+    "Start with presets for retail, service, cafe, repair, or salon",
+    "Run browser-first before hardware gets complex",
   ];
 
   const sales = [
-    ["Cut + beard trim", "$42.00"],
-    ["Styling gel", "$14.00"],
-    ["Tip", "$8.00"],
+    ["Service booking", "$45.00"],
+    ["Retail item", "$18.00"],
+    ["Tip", "$7.00"],
   ];
 
   return (
@@ -36,12 +36,12 @@ export default function Home() {
               Local testing preview
             </p>
             <h1 className="max-w-3xl text-4xl font-semibold leading-tight text-zinc-950 sm:text-5xl lg:text-6xl">
-              Simple POS for salons and barbers.
+              One POS for the way small businesses really sell.
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-zinc-700">
-              Countera helps small service shops sell services, track clients,
-              manage staff, and understand daily revenue from one clean browser
-              dashboard.
+              Countera helps retailers, service teams, cafes, salons, repair
+              shops, and local operators run checkout, customers, inventory,
+              staff, and daily reports from one clean browser dashboard.
             </p>
             <div className="mt-8 grid max-w-xl gap-3 sm:grid-cols-2">
               {benefits.map((benefit) => (
@@ -59,7 +59,7 @@ export default function Home() {
             <div className="rounded-lg bg-zinc-950 p-4 text-white">
               <div className="mb-5 flex items-center justify-between gap-4">
                 <div>
-                  <p className="text-sm text-zinc-400">Countera Salon</p>
+                  <p className="text-sm text-zinc-400">Countera Register</p>
                   <h2 className="text-xl font-semibold">Checkout</h2>
                 </div>
                 <span className="rounded-lg bg-teal-500 px-3 py-2 text-sm font-semibold text-zinc-950">
@@ -79,13 +79,13 @@ export default function Home() {
               </div>
               <div className="mt-5 rounded-lg bg-white p-4 text-zinc-950">
                 <div className="flex items-center justify-between text-sm text-zinc-600">
-                  <span>Client</span>
+                  <span>Customer</span>
                   <span>Amir K.</span>
                 </div>
                 <div className="mt-3 flex items-end justify-between gap-4">
                   <div>
                     <p className="text-sm text-zinc-600">Total</p>
-                    <p className="text-3xl font-semibold">$64.00</p>
+                    <p className="text-3xl font-semibold">$70.00</p>
                   </div>
                   <button className="rounded-lg bg-teal-700 px-5 py-3 text-sm font-semibold text-white transition hover:bg-teal-800">
                     Record payment
@@ -101,8 +101,8 @@ export default function Home() {
             <div>
               <p className="text-3xl font-semibold">5 min</p>
               <p className="mt-2 text-sm leading-6 text-zinc-600">
-                Target setup time for a small shop to add first services and run
-                a demo sale.
+                Target setup time for a shop to choose a preset, add first items,
+                and run a demo sale.
               </p>
             </div>
             <div>
@@ -114,8 +114,8 @@ export default function Home() {
             <div>
               <p className="text-3xl font-semibold">1 screen</p>
               <p className="mt-2 text-sm leading-6 text-zinc-600">
-                Checkout, client history, tips, and receipts in one focused POS
-                flow.
+                Checkout, customer history, stock, tips, and receipts in one
+                focused POS flow.
               </p>
             </div>
           </div>
@@ -130,9 +130,9 @@ export default function Home() {
               Validate Countera locally first.
             </h2>
             <p className="mt-4 max-w-xl leading-7 text-zinc-700">
-              This testing page is for shaping the offer before domains,
-              payments, and production deployment. Use it to review copy,
-              benefits, and the first product direction.
+              This testing page is for shaping the all-in-one offer before
+              domains, payments, and production deployment. Use it to review
+              copy, benefits, and the first product direction.
             </p>
           </div>
           <form className="rounded-lg border border-zinc-200 bg-white p-5 shadow-sm">

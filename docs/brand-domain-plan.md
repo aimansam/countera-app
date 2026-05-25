@@ -27,7 +27,7 @@ Product emails:
 
 Mavora Labs is the parent company for multiple SaaS products.
 
-Countera App is the first product under Mavora Labs, focused on theme-based POS for small businesses. The first launch theme is Countera Salon for salons and barbers.
+Countera App is the first product under Mavora Labs, focused on all-in-one POS for small businesses. It should launch with one shared POS core and presets for retail, services, cafes, salons, repair shops, and general local operators.
 
 ## Domain Usage
 

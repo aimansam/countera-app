@@ -2,7 +2,7 @@
 
 ## Phase 1: Product Planning
 
-- [ ] Confirm first niche: salon/barber POS
+- [x] Confirm product direction: all-in-one POS with business presets
 - [x] Choose product name and slug: Countera App, `countera-app`
 - [x] Choose parent company: Mavora Labs
 - [ ] Check domains: `mavoralabs.com`, `countera.app`
@@ -10,7 +10,7 @@
 - [ ] Define pricing tiers
 - [ ] Define trial length
 - [ ] Write homepage positioning
-- [ ] Identify 3-5 local businesses for discovery interviews
+- [ ] Identify 3-5 local retail, service, cafe, salon, or repair businesses for discovery interviews
 - [ ] List must-have receipt fields
 - [ ] Decide supported currencies for MVP
 
@@ -38,7 +38,7 @@
 
 - [ ] Create service catalog
 - [ ] Create product catalog
-- [ ] Create customer/client records
+- [ ] Create customer records with preset-specific labels
 - [ ] Build POS cart screen
 - [ ] Add discounts
 - [ ] Add tax calculation
@@ -82,6 +82,7 @@
 - [ ] Test signup and onboarding
 - [ ] Test service checkout
 - [ ] Test product checkout
+- [ ] Test mixed product/service checkout
 - [ ] Test discount, tax, and tip calculations
 - [ ] Test receipt print view
 - [ ] Test inventory decrement
@@ -101,6 +102,6 @@
 - [ ] Multi-location support
 - [ ] Payment terminal integration
 - [ ] Offline mode
-- [ ] Retail theme
-- [ ] Cafe theme
-- [ ] Repair shop theme
+- [ ] Retail preset
+- [ ] Cafe preset
+- [ ] Repair shop preset

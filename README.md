@@ -1,6 +1,6 @@
 # Countera App
 
-Theme-based point-of-sale SaaS for salons, barbers, and small service shops.
+All-in-one point-of-sale SaaS for small shops, service businesses, cafes, salons, repair teams, and local operators.
 
 ## Brand Architecture
 
@@ -14,31 +14,34 @@ Docs URL candidate: docs.countera.app
 Support email candidate: support@countera.app
 ```
 
-## Best First Theme
+## Product Shape
 
-Start with Countera Salon, a salon/barber POS theme.
+Start with one shared Countera POS core and a small set of business presets.
 
-Why this is the best first wedge:
+Why this is better than a single-niche product:
 
-- Easier than restaurant POS because there are no table maps, kitchen tickets, or complex modifiers in the MVP.
-- More valuable than generic retail because services, staff, client history, tips, and repeat visits create strong workflow pain.
-- Good upgrade path into appointments, memberships, loyalty, staff commissions, reminders, and multi-location support.
-- Browser-based checkout can launch before payment terminals or hardware integrations.
+- A shop can sell products, services, fees, and tips from the same checkout.
+- A service business can track customers, staff, appointments later, and repeat visits.
+- A cafe or retail shop can start with inventory, daily revenue, receipts, and simple reporting.
+- Browser-based checkout can launch before payment terminals, barcode scanners, or kitchen workflows.
 
 ## Product Direction
 
-Build one reliable core POS engine, then layer business themes on top.
+Build one reliable core POS engine, then layer business presets on top.
 
 First launch:
 
 ```text
-Countera Core POS Engine + Countera Salon Theme
+Countera Core POS Engine + Business Presets
 ```
 
-Future themes:
+Starter presets:
 
+- General shop
 - Boutique retail
+- Service business
 - Cafe
+- Salon/barber
 - Repair shop
 - Clinic/service business
 

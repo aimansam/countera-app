@@ -1,14 +1,14 @@
-# Countera Theme Strategy
+# Countera Preset Strategy
 
 ## Decision
 
-Build Countera App as a theme-based POS SaaS, but launch with only one business theme: salon/barber.
+Build Countera App as an all-in-one POS SaaS with business presets, not as a salon-only product.
 
-The product should have a shared core POS engine and theme-specific labels, onboarding, enabled features, dashboard cards, and reports.
+The product should have a shared core POS engine and preset-specific labels, onboarding, enabled features, dashboard cards, and reports.
 
 ## Countera Core POS Engine
 
-Shared across all themes:
+Shared across all presets:
 
 - Workspaces
 - Users and roles
@@ -24,9 +24,41 @@ Shared across all themes:
 - Reports
 - Billing/subscriptions
 
-## First Theme: Countera Salon
+## Starter Presets
 
-Theme-specific labels:
+General shop:
+
+- Products and services
+- Customers
+- Staff roles
+- Inventory
+- Receipts
+- Daily reports
+
+Retail:
+
+- Product-heavy catalog
+- SKU/barcode fields later
+- Inventory-first dashboard
+- Low stock alerts
+
+Service business:
+
+- Services and optional products
+- Customers become clients where useful
+- Staff assignment
+- Notes/history
+
+Cafe:
+
+- Menu items
+- Tips
+- Modifiers later
+- Tables and kitchen tickets later
+
+Salon/barber:
+
+Preset-specific labels:
 
 - Customers become clients
 - Staff can be stylists or barbers
@@ -61,23 +93,23 @@ Onboarding steps:
 - Add staff
 - Run first sale
 
-## Future Themes
+## Future Presets
 
-Retail theme:
+Retail preset:
 
 - Product-heavy catalog
 - SKU/barcode support
 - Suppliers and purchase orders later
 - Inventory-first reporting
 
-Cafe theme:
+Cafe preset:
 
 - Menu items
 - Tips
 - Modifiers later
 - Tables and kitchen tickets later
 
-Repair shop theme:
+Repair shop preset:
 
 - Repair tickets
 - Device/customer history
@@ -86,10 +118,10 @@ Repair shop theme:
 
 ## Implementation Shape
 
-Represent themes as configuration first, not separate apps.
+Represent presets as configuration first, not separate apps.
 
 ```ts
-type BusinessTheme = {
+type BusinessPreset = {
   id: string;
   name: string;
   labels: Record<string, string>;
@@ -99,4 +131,4 @@ type BusinessTheme = {
 };
 ```
 
-Keep the database generic enough for future themes, but do not overbuild. Add theme-specific tables only when a workflow truly needs them.
+Keep the database generic enough for future presets, but do not overbuild. Add preset-specific tables only when a workflow truly needs them.
