@@ -51,5 +51,5 @@ Starter presets:
 - [Business flow](docs/business-flow.md)
 - [Theme strategy](docs/theme-strategy.md)
 - [Brand and domain plan](docs/brand-domain-plan.md)
-- [MVP todo list](docs/todo.md)
-- [Next todo list](docs/next-todo.md)
+
+Detailed execution plans, private validation notes, and safety notes are kept in local-only ignored files under `plans/`.

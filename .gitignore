@@ -36,3 +36,11 @@ Thumbs.db
 tmp/
 temp/
 .cache/
+
+# Local-only planning and safety notes
+.local/
+plans/
+private/
+*.local.md
+docs/*.local.md
+docs/*.private.md
