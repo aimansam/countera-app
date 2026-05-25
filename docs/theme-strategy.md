@@ -1,12 +1,12 @@
-# Theme Strategy
+# Tillio Theme Strategy
 
 ## Decision
 
-Build a theme-based POS SaaS, but launch with only one business theme: salon/barber.
+Build Tillio as a theme-based POS SaaS, but launch with only one business theme: salon/barber.
 
 The product should have a shared core POS engine and theme-specific labels, onboarding, enabled features, dashboard cards, and reports.
 
-## Core POS Engine
+## Tillio Core POS Engine
 
 Shared across all themes:
 
@@ -24,7 +24,7 @@ Shared across all themes:
 - Reports
 - Billing/subscriptions
 
-## First Theme: Salon/Barber
+## First Theme: Tillio Salon
 
 Theme-specific labels:
 

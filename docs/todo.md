@@ -3,7 +3,7 @@
 ## Phase 1: Product Planning
 
 - [ ] Confirm first niche: salon/barber POS
-- [ ] Choose product name and slug
+- [x] Choose product name and slug: Tillio, `tillio-saas`
 - [ ] Define pricing tiers
 - [ ] Define trial length
 - [ ] Write homepage positioning
@@ -13,7 +13,7 @@
 
 ## Phase 2: Project Setup
 
-- [ ] Scaffold `products/pos-saas/app` from the SaaS template
+- [ ] Scaffold the Tillio app from the SaaS template
 - [ ] Add `Dockerfile`, `compose.yaml`, `.dockerignore`, and `.env.example`
 - [ ] Validate Compose with `docker compose -f products/pos-saas/app/compose.yaml config`
 - [ ] Set up Next.js, TypeScript, Tailwind CSS, and pnpm

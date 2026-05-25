@@ -2,7 +2,7 @@
 
 ## Overview
 
-- Product name: POS SaaS, working name
+- Product name: Tillio
 - First theme: Salon/barber POS
 - Target users: small salons, barbers, stylists, and service shops with 1-10 staff
 - Problem being solved: owners need a simple way to sell services/products, track daily revenue, manage staff activity, and keep customer history without a complex enterprise POS
@@ -10,7 +10,7 @@
 
 ## Positioning
 
-Simple browser-based POS for salons and barbers that combines checkout, services, products, customers, staff, receipts, and daily reports.
+Tillio is a simple browser-based POS for salons and barbers that combines checkout, services, products, customers, staff, receipts, and daily reports.
 
 ## Core Workflow
 

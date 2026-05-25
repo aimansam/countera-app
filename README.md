@@ -1,10 +1,10 @@
-# POS SaaS
+# Tillio
 
-Theme-based point-of-sale SaaS for small businesses.
+Theme-based point-of-sale SaaS for salons, barbers, and small service shops.
 
 ## Best First Theme
 
-Start with a salon/barber POS theme.
+Start with Tillio Salon, a salon/barber POS theme.
 
 Why this is the best first wedge:
 
@@ -20,7 +20,7 @@ Build one reliable core POS engine, then layer business themes on top.
 First launch:
 
 ```text
-Core POS Engine + Salon/Barber Theme
+Tillio Core POS Engine + Tillio Salon Theme
 ```
 
 Future themes:
