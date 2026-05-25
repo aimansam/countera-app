@@ -3,9 +3,9 @@
 ## Phase 1: Product Planning
 
 - [ ] Confirm first niche: salon/barber POS
-- [x] Choose product name and slug: Tillio, `tillio-saas`
-- [x] Choose parent company: Nuvora Labs
-- [x] Choose domains: `nuvoralabs.com`, `tillio.app`
+- [x] Choose product name and slug: Lynqor, `lynqor-saas`
+- [x] Choose parent company: Aventryx Labs
+- [x] Choose domains: `aventryxlabs.com`, `lynqor.app`
 - [ ] Complete immediate next steps in [next-todo.md](next-todo.md)
 - [ ] Define pricing tiers
 - [ ] Define trial length
@@ -16,13 +16,13 @@
 
 ## Phase 2: Project Setup
 
-- [ ] Scaffold the Tillio app from the SaaS template
-- [ ] Add `Dockerfile`, `compose.yaml`, `.dockerignore`, and `.env.example`
-- [ ] Validate Compose with `docker compose -f products/tillio-saas/app/compose.yaml config`
-- [ ] Set up Next.js, TypeScript, Tailwind CSS, and pnpm
+- [x] Scaffold the Lynqor app from the SaaS template
+- [x] Add `Dockerfile`, `compose.yaml`, `.dockerignore`, and `.env.example`
+- [x] Validate Compose with `docker compose -f products/lynqor-saas/app/compose.yaml config`
+- [x] Set up Next.js, TypeScript, Tailwind CSS, and pnpm
 - [ ] Set up PostgreSQL in Docker Compose
-- [ ] Add README setup commands
-- [ ] Initialize separate Git repository for the app when ready
+- [x] Add README setup commands
+- [x] Initialize separate Git repository for the app when ready
 
 ## Phase 3: App Foundation
 

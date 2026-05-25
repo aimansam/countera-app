@@ -1,0 +1,42 @@
+# Lynqor Local Test App
+
+Local Docker-first testing version of the Lynqor landing and waitlist experience.
+
+## Getting Started
+
+Run with Docker Compose:
+
+```bash
+cp .env.example .env
+docker compose up --build
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Run checks through Docker:
+
+```bash
+docker compose run --rm web pnpm lint
+docker compose run --rm web pnpm build
+```
+
+For direct local development without Docker:
+
+```bash
+pnpm install
+pnpm dev
+```
+
+## Notes
+
+- This is a local testing version only.
+- The waitlist form is a placeholder and does not submit emails yet.
+- Production domains are planned later: `lynqor.app` and `app.lynqor.app`.
+
+## Main Files
+
+- `src/app/page.tsx`: landing/waitlist page
+- `src/app/globals.css`: global styles and Tailwind import
+- `compose.yaml`: local Docker Compose setup
+- `Dockerfile`: local app image
+- `.env.example`: safe environment variable template

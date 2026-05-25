@@ -2,12 +2,12 @@
 
 ## Overview
 
-- Product name: Tillio
-- Parent company: Nuvora Labs
-- Company domain: nuvoralabs.com
-- Product domain: tillio.app
-- App URL: app.tillio.app
-- Support email: support@tillio.app
+- Product name: Lynqor
+- Parent company: Aventryx Labs
+- Company domain: aventryxlabs.com
+- Product domain: lynqor.app
+- App URL: app.lynqor.app
+- Support email: support@lynqor.app
 - First theme: Salon/barber POS
 - Target users: small salons, barbers, stylists, and service shops with 1-10 staff
 - Problem being solved: owners need a simple way to sell services/products, track daily revenue, manage staff activity, and keep customer history without a complex enterprise POS
@@ -15,15 +15,15 @@
 
 ## Positioning
 
-Tillio is a simple browser-based POS for salons and barbers that combines checkout, services, products, customers, staff, receipts, and daily reports.
+Lynqor is a simple browser-based POS for salons and barbers that combines checkout, services, products, customers, staff, receipts, and daily reports.
 
 Parent brand line:
 
-Nuvora Labs builds practical SaaS tools for small businesses and modern operators.
+Aventryx Labs builds practical SaaS tools for small businesses and modern operators.
 
 Product line:
 
-Tillio helps salons and barbers sell services, track clients, manage staff, and see daily revenue from one clean POS dashboard.
+Lynqor helps salons and barbers sell services, track clients, manage staff, and see daily revenue from one clean POS dashboard.
 
 ## Core Workflow
 

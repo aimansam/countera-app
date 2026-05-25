@@ -1,22 +1,22 @@
-# Tillio
+# Lynqor
 
 Theme-based point-of-sale SaaS for salons, barbers, and small service shops.
 
 ## Brand Architecture
 
 ```text
-Company: Nuvora Labs
-Company domain: nuvoralabs.com
-Product: Tillio
-Product domain: tillio.app
-App URL: app.tillio.app
-Docs URL: docs.tillio.app
-Support email: support@tillio.app
+Company: Aventryx Labs
+Company domain: aventryxlabs.com
+Product: Lynqor
+Product domain: lynqor.app
+App URL: app.lynqor.app
+Docs URL: docs.lynqor.app
+Support email: support@lynqor.app
 ```
 
 ## Best First Theme
 
-Start with Tillio Salon, a salon/barber POS theme.
+Start with Lynqor Salon, a salon/barber POS theme.
 
 Why this is the best first wedge:
 
@@ -32,7 +32,7 @@ Build one reliable core POS engine, then layer business themes on top.
 First launch:
 
 ```text
-Tillio Core POS Engine + Tillio Salon Theme
+Lynqor Core POS Engine + Lynqor Salon Theme
 ```
 
 Future themes:

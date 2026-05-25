@@ -2,36 +2,36 @@
 
 ## Brand Architecture
 
-- Company: Nuvora Labs
-- Company domain: nuvoralabs.com
-- Product: Tillio
-- Product domain: tillio.app
-- App URL: app.tillio.app
-- Docs URL: docs.tillio.app
-- Status URL: status.tillio.app, later
+- Company: Aventryx Labs
+- Company domain: aventryxlabs.com
+- Product: Lynqor
+- Product domain: lynqor.app
+- App URL: app.lynqor.app
+- Docs URL: docs.lynqor.app
+- Status URL: status.lynqor.app, later
 
 ## Email Plan
 
 Company emails:
 
-- hello@nuvoralabs.com
-- admin@nuvoralabs.com
+- hello@aventryxlabs.com
+- admin@aventryxlabs.com
 
 Product emails:
 
-- support@tillio.app
-- billing@tillio.app
-- hello@tillio.app, optional
+- support@lynqor.app
+- billing@lynqor.app
+- hello@lynqor.app, optional
 
 ## Brand Roles
 
-Nuvora Labs is the parent company for multiple SaaS products.
+Aventryx Labs is the parent company for multiple SaaS products.
 
-Tillio is the first product under Nuvora Labs, focused on theme-based POS for small businesses. The first launch theme is Tillio Salon for salons and barbers.
+Lynqor is the first product under Aventryx Labs, focused on theme-based POS for small businesses. The first launch theme is Lynqor Salon for salons and barbers.
 
 ## Domain Usage
 
-Use nuvoralabs.com for:
+Use aventryxlabs.com for:
 
 - Company website
 - Product studio profile
@@ -39,7 +39,7 @@ Use nuvoralabs.com for:
 - Future product portfolio
 - Company email
 
-Use tillio.app for:
+Use lynqor.app for:
 
 - Product landing page
 - Waitlist
@@ -47,14 +47,14 @@ Use tillio.app for:
 - Login/signup entry
 - Product documentation links
 
-Use app.tillio.app for:
+Use app.lynqor.app for:
 
 - Authenticated SaaS app
 - POS dashboard
 - Checkout workflow
 - Owner/admin screens
 
-Use docs.tillio.app later for:
+Use docs.lynqor.app later for:
 
 - Help center
 - Setup guides
@@ -63,10 +63,10 @@ Use docs.tillio.app later for:
 
 ## Immediate Brand Tasks
 
-- Buy nuvoralabs.com
-- Buy tillio.app
+- Buy aventryxlabs.com
+- Buy lynqor.app
 - Set up DNS provider access
 - Set up email provider
-- Reserve GitHub organization or owner naming for Nuvora Labs
-- Reserve social handles for Nuvora Labs and Tillio where practical
-- Create a simple Tillio waitlist landing page
+- Reserve GitHub organization or owner naming for Aventryx Labs
+- Reserve social handles for Aventryx Labs and Lynqor where practical
+- Create a simple Lynqor waitlist landing page

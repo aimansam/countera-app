@@ -1,12 +1,12 @@
-# Tillio Theme Strategy
+# Lynqor Theme Strategy
 
 ## Decision
 
-Build Tillio as a theme-based POS SaaS, but launch with only one business theme: salon/barber.
+Build Lynqor as a theme-based POS SaaS, but launch with only one business theme: salon/barber.
 
 The product should have a shared core POS engine and theme-specific labels, onboarding, enabled features, dashboard cards, and reports.
 
-## Tillio Core POS Engine
+## Lynqor Core POS Engine
 
 Shared across all themes:
 
@@ -24,7 +24,7 @@ Shared across all themes:
 - Reports
 - Billing/subscriptions
 
-## First Theme: Tillio Salon
+## First Theme: Lynqor Salon
 
 Theme-specific labels:
 
