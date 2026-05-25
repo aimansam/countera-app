@@ -2,6 +2,18 @@
 
 Theme-based point-of-sale SaaS for salons, barbers, and small service shops.
 
+## Brand Architecture
+
+```text
+Company: Nuvora Labs
+Company domain: nuvoralabs.com
+Product: Tillio
+Product domain: tillio.app
+App URL: app.tillio.app
+Docs URL: docs.tillio.app
+Support email: support@tillio.app
+```
+
 ## Best First Theme
 
 Start with Tillio Salon, a salon/barber POS theme.
@@ -34,4 +46,6 @@ Future themes:
 
 - [Product brief](docs/product-brief.md)
 - [Theme strategy](docs/theme-strategy.md)
+- [Brand and domain plan](docs/brand-domain-plan.md)
 - [MVP todo list](docs/todo.md)
+- [Next todo list](docs/next-todo.md)

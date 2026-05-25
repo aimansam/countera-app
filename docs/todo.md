@@ -4,6 +4,9 @@
 
 - [ ] Confirm first niche: salon/barber POS
 - [x] Choose product name and slug: Tillio, `tillio-saas`
+- [x] Choose parent company: Nuvora Labs
+- [x] Choose domains: `nuvoralabs.com`, `tillio.app`
+- [ ] Complete immediate next steps in [next-todo.md](next-todo.md)
 - [ ] Define pricing tiers
 - [ ] Define trial length
 - [ ] Write homepage positioning
