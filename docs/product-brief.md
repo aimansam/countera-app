@@ -36,6 +36,8 @@ Countera helps small businesses sell products and services, track customers and 
 7. App creates the order, updates inventory, stores customer history, and shows receipt.
 8. Owner reviews daily sales and staff activity.
 
+See [Business flow](business-flow.md) for the full acquisition, onboarding, checkout, operations, reporting, and billing flow.
+
 ## Roles And Permissions
 
 | Role | Capabilities |

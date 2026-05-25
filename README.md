@@ -48,6 +48,7 @@ Starter presets:
 ## Key Docs
 
 - [Product brief](docs/product-brief.md)
+- [Business flow](docs/business-flow.md)
 - [Theme strategy](docs/theme-strategy.md)
 - [Brand and domain plan](docs/brand-domain-plan.md)
 - [MVP todo list](docs/todo.md)

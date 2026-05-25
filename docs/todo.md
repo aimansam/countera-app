@@ -5,6 +5,7 @@
 - [x] Confirm product direction: all-in-one POS with business presets
 - [x] Choose product name and slug: Countera App, `countera-app`
 - [x] Choose parent company: Mavora Labs
+- [x] Document business flow
 - [ ] Check domains: `mavoralabs.com`, `countera.app`
 - [ ] Complete immediate next steps in [next-todo.md](next-todo.md)
 - [ ] Define pricing tiers
