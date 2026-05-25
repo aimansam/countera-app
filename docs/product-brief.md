@@ -1,0 +1,112 @@
+# Product Brief
+
+## Overview
+
+- Product name: POS SaaS, working name
+- First theme: Salon/barber POS
+- Target users: small salons, barbers, stylists, and service shops with 1-10 staff
+- Problem being solved: owners need a simple way to sell services/products, track daily revenue, manage staff activity, and keep customer history without a complex enterprise POS
+- Primary outcome: a shop can complete checkout, record payments, track inventory, and understand daily performance from one browser-based app
+
+## Positioning
+
+Simple browser-based POS for salons and barbers that combines checkout, services, products, customers, staff, receipts, and daily reports.
+
+## Core Workflow
+
+1. Owner creates a shop workspace.
+2. Owner adds services, products, staff, tax settings, and optional customers.
+3. Cashier/stylist opens the POS screen.
+4. Cashier adds services/products to cart.
+5. Cashier applies tax, discounts, and optional tip.
+6. Cashier records payment as cash, card/manual, or other.
+7. App creates the order, updates inventory, stores customer history, and shows receipt.
+8. Owner reviews daily sales and staff activity.
+
+## Roles And Permissions
+
+| Role | Capabilities |
+| --- | --- |
+| Owner | Manage billing, settings, staff, catalog, reports, and all orders |
+| Manager | Manage catalog, staff schedule/status, customers, orders, and reports |
+| Cashier | Create sales, view products/services, create customers, print/send receipts |
+| Stylist | Create assigned sales, view own customers/history, view own daily totals |
+
+## MVP Features
+
+- Workspace/shop setup
+- Auth and staff roles
+- Product and service catalog
+- Customer/client records
+- POS cart and checkout
+- Discounts, tax, and tips
+- Manual payment recording
+- Receipt view and browser print
+- Inventory quantity tracking for products
+- Daily sales report
+- Staff sales summary
+- Stripe subscription billing for the SaaS
+
+## Data Model Notes
+
+Main entities:
+
+- users
+- workspaces
+- memberships
+- products
+- services
+- customers
+- orders
+- order_items
+- payments
+- tax_rates
+- discounts
+- inventory_movements
+- register_sessions
+- subscriptions
+- activity_log
+
+Relationships:
+
+- A workspace has many members, products, services, customers, orders, and register sessions.
+- An order belongs to a workspace and optionally a customer, staff member, and register session.
+- An order has many order items and payments.
+- Products can create inventory movements when sold or adjusted.
+
+Retention requirements:
+
+- Keep order, payment, receipt, and activity records for reporting and audit history.
+- Do not hard-delete financial records after launch; use void/refund/cancel states.
+
+## Launch Scope
+
+Must have:
+
+- Docker-first Next.js app foundation
+- PostgreSQL schema
+- Auth and workspace roles
+- Salon/barber onboarding
+- Services/products
+- POS checkout
+- Manual payments
+- Receipts
+- Basic reporting
+- Stripe SaaS billing
+
+Nice to have:
+
+- Customer notes/history
+- Staff commission report
+- CSV export
+- Email receipts
+- Basic appointment placeholder
+
+Not now:
+
+- Payment terminal integration
+- Offline mode
+- Multi-location
+- Kitchen/table workflows
+- Supplier purchase orders
+- Advanced loyalty program
