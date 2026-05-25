@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Lynqor | POS for salons and barbers",
+  title: "Countera | POS for salons and barbers",
   description:
     "A simple browser-based POS for salons and barbers to sell services, track clients, manage staff, and see daily revenue.",
 };

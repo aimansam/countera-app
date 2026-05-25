@@ -3,9 +3,9 @@
 ## Phase 1: Product Planning
 
 - [ ] Confirm first niche: salon/barber POS
-- [x] Choose product name and slug: Lynqor, `lynqor-saas`
-- [x] Choose parent company: Aventryx Labs
-- [x] Choose domains: `aventryxlabs.com`, `lynqor.app`
+- [x] Choose product name and slug: Countera App, `countera-app`
+- [x] Choose parent company: Mavora Labs
+- [ ] Check domains: `mavoralabs.com`, `countera.app`
 - [ ] Complete immediate next steps in [next-todo.md](next-todo.md)
 - [ ] Define pricing tiers
 - [ ] Define trial length
@@ -16,9 +16,9 @@
 
 ## Phase 2: Project Setup
 
-- [x] Scaffold the Lynqor app from the SaaS template
+- [x] Scaffold the Countera App from the SaaS template
 - [x] Add `Dockerfile`, `compose.yaml`, `.dockerignore`, and `.env.example`
-- [x] Validate Compose with `docker compose -f products/lynqor-saas/app/compose.yaml config`
+- [x] Validate Compose with `docker compose -f products/countera-app/app/compose.yaml config`
 - [x] Set up Next.js, TypeScript, Tailwind CSS, and pnpm
 - [ ] Set up PostgreSQL in Docker Compose
 - [x] Add README setup commands

@@ -2,36 +2,36 @@
 
 ## Brand Architecture
 
-- Company: Aventryx Labs
-- Company domain: aventryxlabs.com
-- Product: Lynqor
-- Product domain: lynqor.app
-- App URL: app.lynqor.app
-- Docs URL: docs.lynqor.app
-- Status URL: status.lynqor.app, later
+- Company: Mavora Labs
+- Company domain candidate: mavoralabs.com
+- Product: Countera App
+- Product domain candidate: countera.app
+- App URL candidate: app.countera.app
+- Docs URL candidate: docs.countera.app
+- Status URL candidate: status.countera.app, later
 
 ## Email Plan
 
 Company emails:
 
-- hello@aventryxlabs.com
-- admin@aventryxlabs.com
+- hello@mavoralabs.com
+- admin@mavoralabs.com
 
 Product emails:
 
-- support@lynqor.app
-- billing@lynqor.app
-- hello@lynqor.app, optional
+- support@countera.app
+- billing@countera.app
+- hello@countera.app, optional
 
 ## Brand Roles
 
-Aventryx Labs is the parent company for multiple SaaS products.
+Mavora Labs is the parent company for multiple SaaS products.
 
-Lynqor is the first product under Aventryx Labs, focused on theme-based POS for small businesses. The first launch theme is Lynqor Salon for salons and barbers.
+Countera App is the first product under Mavora Labs, focused on theme-based POS for small businesses. The first launch theme is Countera Salon for salons and barbers.
 
 ## Domain Usage
 
-Use aventryxlabs.com for:
+Use mavoralabs.com for:
 
 - Company website
 - Product studio profile
@@ -39,7 +39,7 @@ Use aventryxlabs.com for:
 - Future product portfolio
 - Company email
 
-Use lynqor.app for:
+Use countera.app for:
 
 - Product landing page
 - Waitlist
@@ -47,14 +47,14 @@ Use lynqor.app for:
 - Login/signup entry
 - Product documentation links
 
-Use app.lynqor.app for:
+Use app.countera.app for:
 
 - Authenticated SaaS app
 - POS dashboard
 - Checkout workflow
 - Owner/admin screens
 
-Use docs.lynqor.app later for:
+Use docs.countera.app later for:
 
 - Help center
 - Setup guides
@@ -63,10 +63,10 @@ Use docs.lynqor.app later for:
 
 ## Immediate Brand Tasks
 
-- Buy aventryxlabs.com
-- Buy lynqor.app
+- Check availability for mavoralabs.com
+- Check availability for countera.app
 - Set up DNS provider access
 - Set up email provider
-- Reserve GitHub organization or owner naming for Aventryx Labs
-- Reserve social handles for Aventryx Labs and Lynqor where practical
-- Create a simple Lynqor waitlist landing page
+- Reserve GitHub organization or owner naming for Mavora Labs
+- Reserve social handles for Mavora Labs and Countera where practical
+- Create a simple Countera waitlist landing page

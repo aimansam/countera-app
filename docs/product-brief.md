@@ -2,12 +2,12 @@
 
 ## Overview
 
-- Product name: Lynqor
-- Parent company: Aventryx Labs
-- Company domain: aventryxlabs.com
-- Product domain: lynqor.app
-- App URL: app.lynqor.app
-- Support email: support@lynqor.app
+- Product name: Countera App
+- Parent company: Mavora Labs
+- Company domain candidate: mavoralabs.com
+- Product domain candidate: countera.app
+- App URL candidate: app.countera.app
+- Support email candidate: support@countera.app
 - First theme: Salon/barber POS
 - Target users: small salons, barbers, stylists, and service shops with 1-10 staff
 - Problem being solved: owners need a simple way to sell services/products, track daily revenue, manage staff activity, and keep customer history without a complex enterprise POS
@@ -15,15 +15,15 @@
 
 ## Positioning
 
-Lynqor is a simple browser-based POS for salons and barbers that combines checkout, services, products, customers, staff, receipts, and daily reports.
+Countera App is a simple browser-based POS for salons and barbers that combines checkout, services, products, customers, staff, receipts, and daily reports.
 
 Parent brand line:
 
-Aventryx Labs builds practical SaaS tools for small businesses and modern operators.
+Mavora Labs builds practical SaaS tools for small businesses and modern operators.
 
 Product line:
 
-Lynqor helps salons and barbers sell services, track clients, manage staff, and see daily revenue from one clean POS dashboard.
+Countera helps salons and barbers sell services, track clients, manage staff, and see daily revenue from one clean POS dashboard.
 
 ## Core Workflow
 

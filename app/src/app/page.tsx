@@ -15,11 +15,11 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-[#fbfaf7] text-zinc-950">
       <header className="mx-auto flex w-full max-w-7xl items-center justify-between px-5 py-5 sm:px-8 lg:px-10">
-        <a className="flex items-center gap-3" href="#top" aria-label="Lynqor home">
+        <a className="flex items-center gap-3" href="#top" aria-label="Countera home">
           <span className="grid h-9 w-9 place-items-center rounded-lg bg-teal-700 text-sm font-bold text-white">
-            L
+            C
           </span>
-          <span className="text-lg font-semibold">Lynqor</span>
+          <span className="text-lg font-semibold">Countera</span>
         </a>
         <a
           className="rounded-lg border border-zinc-300 px-4 py-2 text-sm font-medium text-zinc-800 transition hover:border-zinc-950 hover:text-zinc-950"
@@ -39,7 +39,7 @@ export default function Home() {
               Simple POS for salons and barbers.
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-zinc-700">
-              Lynqor helps small service shops sell services, track clients,
+              Countera helps small service shops sell services, track clients,
               manage staff, and understand daily revenue from one clean browser
               dashboard.
             </p>
@@ -59,7 +59,7 @@ export default function Home() {
             <div className="rounded-lg bg-zinc-950 p-4 text-white">
               <div className="mb-5 flex items-center justify-between gap-4">
                 <div>
-                  <p className="text-sm text-zinc-400">Lynqor Salon</p>
+                  <p className="text-sm text-zinc-400">Countera Salon</p>
                   <h2 className="text-xl font-semibold">Checkout</h2>
                 </div>
                 <span className="rounded-lg bg-teal-500 px-3 py-2 text-sm font-semibold text-zinc-950">
@@ -127,7 +127,7 @@ export default function Home() {
         >
           <div>
             <h2 className="text-3xl font-semibold text-zinc-950">
-              Validate Lynqor locally first.
+              Validate Countera locally first.
             </h2>
             <p className="mt-4 max-w-xl leading-7 text-zinc-700">
               This testing page is for shaping the offer before domains,

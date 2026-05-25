@@ -1,6 +1,6 @@
-# Lynqor Local Test App
+# Countera Local Test App
 
-Local Docker-first testing version of the Lynqor landing and waitlist experience.
+Local Docker-first testing version of the Countera landing and waitlist experience.
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ pnpm dev
 
 - This is a local testing version only.
 - The waitlist form is a placeholder and does not submit emails yet.
-- Production domains are planned later: `lynqor.app` and `app.lynqor.app`.
+- Production domains are planned later: `countera.app` and `app.countera.app`.
 
 ## Main Files
 

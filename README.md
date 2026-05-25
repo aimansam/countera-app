@@ -1,22 +1,22 @@
-# Lynqor
+# Countera App
 
 Theme-based point-of-sale SaaS for salons, barbers, and small service shops.
 
 ## Brand Architecture
 
 ```text
-Company: Aventryx Labs
-Company domain: aventryxlabs.com
-Product: Lynqor
-Product domain: lynqor.app
-App URL: app.lynqor.app
-Docs URL: docs.lynqor.app
-Support email: support@lynqor.app
+Company: Mavora Labs
+Company domain candidate: mavoralabs.com
+Product: Countera App
+Product domain candidate: countera.app
+App URL candidate: app.countera.app
+Docs URL candidate: docs.countera.app
+Support email candidate: support@countera.app
 ```
 
 ## Best First Theme
 
-Start with Lynqor Salon, a salon/barber POS theme.
+Start with Countera Salon, a salon/barber POS theme.
 
 Why this is the best first wedge:
 
@@ -32,7 +32,7 @@ Build one reliable core POS engine, then layer business themes on top.
 First launch:
 
 ```text
-Lynqor Core POS Engine + Lynqor Salon Theme
+Countera Core POS Engine + Countera Salon Theme
 ```
 
 Future themes:

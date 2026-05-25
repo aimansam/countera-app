@@ -1,13 +1,13 @@
 # Next Todo List
 
-This is the immediate execution list before the full Lynqor app build. Current priority: local testing first, domains later.
+This is the immediate execution list before the full Countera App build. Current priority: local testing first, domains later.
 
 ## Step 0: Local Testing Version
 
 - [x] Scaffold a local Next.js testing app in `app/`
 - [x] Add Dockerfile and Compose setup
 - [x] Add `.env.example`
-- [x] Add Lynqor brand copy
+- [x] Add Countera brand copy
 - [x] Add waitlist form placeholder
 - [x] Add sections for checkout, services/products, clients, staff, and daily reports
 - [x] Validate Compose config
@@ -18,15 +18,15 @@ This is the immediate execution list before the full Lynqor app build. Current p
 
 ## Step 1: Brand And Domain Setup, Later
 
-- [ ] Buy `aventryxlabs.com`
-- [ ] Buy `lynqor.app`
+- [ ] Check availability for `mavoralabs.com`
+- [ ] Check availability for `countera.app`
 - [ ] Choose DNS provider
-- [ ] Point `lynqor.app` to the future landing page host
-- [ ] Reserve `app.lynqor.app` for the SaaS app
-- [ ] Reserve `docs.lynqor.app` for future documentation
-- [ ] Set up `hello@aventryxlabs.com`
-- [ ] Set up `support@lynqor.app`
-- [ ] Set up `billing@lynqor.app`
+- [ ] Point `countera.app` to the future landing page host
+- [ ] Reserve `app.countera.app` for the SaaS app
+- [ ] Reserve `docs.countera.app` for future documentation
+- [ ] Set up `hello@mavoralabs.com`
+- [ ] Set up `support@countera.app`
+- [ ] Set up `billing@countera.app`
 
 ## Step 2: Demand Validation
 
@@ -42,12 +42,12 @@ This is the immediate execution list before the full Lynqor app build. Current p
 ## Step 3: Waitlist Landing Page
 
 - [x] Scaffold a small Docker-first landing page
-- [x] Add Lynqor brand copy
+- [x] Add Countera brand copy
 - [x] Add waitlist form placeholder or integration
 - [x] Add sections for checkout, services/products, clients, staff, and daily reports
 - [ ] Add simple pricing interest section
 - [ ] Add privacy/contact links
-- [ ] Deploy to `lynqor.app`, later
+- [ ] Deploy to `countera.app`, later
 
 ## Step 4: App Scaffold
 
