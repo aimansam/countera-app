@@ -23,9 +23,9 @@ export default function Home() {
         </a>
         <a
           className="rounded-lg border border-zinc-300 px-4 py-2 text-sm font-medium text-zinc-800 transition hover:border-zinc-950 hover:text-zinc-950"
-          href="#waitlist"
+          href="/app/onboarding"
         >
-          Join waitlist
+          Open app
         </a>
       </header>
 
