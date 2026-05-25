@@ -18,7 +18,7 @@
 
 - [ ] Scaffold the Tillio app from the SaaS template
 - [ ] Add `Dockerfile`, `compose.yaml`, `.dockerignore`, and `.env.example`
-- [ ] Validate Compose with `docker compose -f products/pos-saas/app/compose.yaml config`
+- [ ] Validate Compose with `docker compose -f products/tillio-saas/app/compose.yaml config`
 - [ ] Set up Next.js, TypeScript, Tailwind CSS, and pnpm
 - [ ] Set up PostgreSQL in Docker Compose
 - [ ] Add README setup commands
